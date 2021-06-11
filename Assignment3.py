@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: jkfrason
+@author: 
 """
       
 class Vehicle:
