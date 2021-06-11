@@ -2,7 +2,7 @@
 """
 Created on Thu Mar  4 09:04:37 2021
 
-@author: jkfra
+@author: krishnaaxo
 """
 name = str(input('Enter the name of the student: '))
   
