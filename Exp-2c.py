@@ -2,7 +2,7 @@
 """
 Created on Sat Mar  6 22:12:47 2021
 
-@author: jkfra
+@author: krishnaaxo
 """
 
 def pow(x, y):
