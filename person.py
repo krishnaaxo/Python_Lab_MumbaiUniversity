@@ -2,7 +2,7 @@
 """
 Inheritance a
 
-@author: jkfra
+@author: krishnaaxo
 """
 
 # person.py
