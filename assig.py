@@ -2,7 +2,7 @@
 """
 Created on Fri May  7 09:08:05 2021
 
-@author: jkfra
+@author: krishnaaxo
 """
 def count(listOfTuple):
 	
