@@ -65,3 +65,39 @@ multithreaded application with thread synchronization and deadlocks
 
 Creating a menu driven application which should
 cover all the exceptions in python.
+# Assignment-1
+Write a python program to input a string, remove
+punctuation from a string and then sort words in alphabetic order. (LO1)
+# Assignment-2
+Write the following programs (LO2)
+
+i)       
+Write a python program to count tuples occurrences
+in given list of tuples and then remove duplicate tuples from list of tuples
+
+ii)     
+Write a python program to create a sub-dictionary
+containing all keys from dictionary list
+Class comments
+# Assignment-3
+Create a Vehicle class with max_speed and mileage
+instance attributes. Create a Bus and Taxi classes that inherit the Vehicle
+class. Give the capacity argument of Bus. The seating_capacity() for bus and
+Taxi a default value of 50 and 3 respectively. The default fare charge of any
+vehicle is seating capacity * 100 per 5km. If Vehicle is Bus instance, we need
+to add an extra 10% on full fare as a maintenance charge. So total fare for bus
+instance will become the final amount = total fare + 10% of the total fare.
+Calculate total fare charges spent by group for picnic if both taxi and bus is
+used for travelling 100km distance one way.  (LO3)
+# Assignment-4
+Create
+module for performing mathematical function and import it to calculate
+Euclidean distance. Show exception handling to handle the runtime mistake done
+by user. (LO4)
+# Assignment-5
+Develop GUI Application for E-commerce
+application use (LO5)
+
+1) file, pickle, dictionary  to show add, delete, update operations.
+
+2) sqlite3 dictionary  to show add, delete, update operations.
